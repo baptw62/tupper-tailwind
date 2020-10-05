@@ -1,0 +1,95 @@
+.navbar-lewagon {
+  justify-content: space-between;
+  background: white;
+}
+
+.navbar-lewagon .navbar-collapse {
+  flex-grow: 0;
+}
+
+.navbar-lewagon .navbar-brand img {
+  width: 40px;
+}
+
+.banner{
+  text-align: center;
+  color: white;
+  padding: 150px 0px;
+  background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.4) 50%), url("https://www.figma.com/file/ikgPgAPdjtaaky8UH1IQSi/Project-Tupper?node-id=8%3A0");
+  background-size: cover;
+  background-position: center;
+}
+.banner h1 {
+  font-size: 50px;
+}
+.banner p {
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+  margin-bottom: 40px;
+}
+
+
+.btn, .btn-primary, .btn-lg{
+  background-color: #00B0FF ;
+}
+
+.my-card{
+  border: none;
+}
+
+
+.my-cardbis{
+  border: none;
+  text-align: left;
+  margin-top: 60px;
+}
+
+.container{
+  text-align: center;
+}
+
+
+.my-container{
+  text-align: center;
+}
+
+.row{
+  text-align: center;
+}
+
+.card-white {
+  background-color: white;
+  border-radius: 4px;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(50,50,93,.11);
+  padding: 16px;
+  margin: 16px 0px;
+}
+.card-white img {
+  margin-bottom: 20px;
+}
+
+
+.footer {
+  background-color: black;
+  padding: 24px;
+  color: white;
+}
+.footer a {
+  color: white;
+  font-size: 32px;
+}
+
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+.list-inline li {
+  display: inline;
+  padding: 0px 8px;
+}
+
+
+
